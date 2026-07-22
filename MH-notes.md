@@ -100,6 +100,29 @@ protector - hunter, warrior, shaman
 ## Trash - Kaz'rogal
 
 ## Kaz'rogal
+- mark of kaz'rogal: drains 3k mana over 5 seconds (or 600/sec), for every mana user
+    - if player has no mana -> ~11k dmg to self and others within 15 yards
+    - will be casted more frequently as fight goes on
+        - first cast at 45 seconds into the fight, then 40, then 35, etc
+    - ret pallies and enh. shamans need to be esp. careful so they dont explode on melee
+- war stomp: 5 second stun within 15 yards, 2k dmg
+    - free action potion
+- cripple: slows attack and movement speed; reduces strength; casted on random players, pets, npcs
+    - cloak of shadows, blessing of freedom; otherwise not dispellable
+- malevolent cleave: frontal cleave, damage is split evenly among players
+    - position thrall so he's behind the boss, so he doesnt get hit by cleave
+    - non-tanks never in front
+
+- pally tank not recommended due to the mana drain mechanic
+- elixir of demon slaying
+- healer should prio mana-efficient spells
+- new entrance to MH unlocks at horde camp
+
+- strat:
+    - mana pots! demonic/dark runes; mana conservation in general; judge wis on boss, mana tide totem, shadow priest
+        - mages can negate via ice block, pallies via divine shield
+    - run away from others if your mana is about to be completely drained to minimize dmg
+    - BL once tank gets threat
 
 =======
 
@@ -111,5 +134,4 @@ protector - hunter, warrior, shaman
 
 
 ## Archimonde
-
 
