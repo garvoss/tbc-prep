@@ -98,6 +98,7 @@ protector - hunter, warrior, shaman
 =======
 
 ## Trash - Kaz'rogal
+- https://www.wowhead.com/tbc/npc=17888/kazrogal#comments
 
 ## Kaz'rogal
 - mark of kaz'rogal: drains 3k mana over 5 seconds (or 600/sec), for every mana user
@@ -105,6 +106,8 @@ protector - hunter, warrior, shaman
     - will be casted more frequently as fight goes on
         - first cast at 45 seconds into the fight, then 40, then 35, etc
     - ret pallies and enh. shamans need to be esp. careful so they dont explode on melee
+    - resto druids can shift into cat/bear will make them immune to mana drain
+    - this can be resisted periodically using the shadow resist neck; looks like shadow resist gear reduces explosion dmg
 - war stomp: 5 second stun within 15 yards, 2k dmg
     - free action potion
 - cripple: slows attack and movement speed; reduces strength; casted on random players, pets, npcs
@@ -118,10 +121,12 @@ protector - hunter, warrior, shaman
 - healer should prio mana-efficient spells
 - new entrance to MH unlocks at horde camp
 
+
 - strat:
+    - need to burn boss quickly, move boss around camp to aggro the taurens and thrall; hunters can MD boss to tank
     - mana pots! demonic/dark runes; mana conservation in general; judge wis on boss, mana tide totem, shadow priest
         - mages can negate via ice block, pallies via divine shield
-    - run away from others if your mana is about to be completely drained to minimize dmg
+    - run away from others ahead of mark if your mana is about to be completely drained to minimize dmg
     - BL once tank gets threat
 
 =======
@@ -134,4 +139,5 @@ protector - hunter, warrior, shaman
 
 
 ## Archimonde
+
 
