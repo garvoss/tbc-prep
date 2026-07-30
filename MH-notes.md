@@ -132,11 +132,42 @@ protector - hunter, warrior, shaman
 =======
 
 ## Trash - Azgalor
+- I've heard trash preceding this boss is hard; rogues can distract the boss
 
 ## Azgalor
 
-=======
+- Doom: targets random player in raid, kills them in 20 seconds and spawns a lesser doomguard; every 50 seconds
+    - the doomguard casts cripple: slows attack and movement speed 50%, reduces strength 50%, 12 seconds
+        - not dispellable; can be cloak of shadow'd, blessing of freedom
+    - doomguard casts war stomp: 5 second stun, 1k dmg
+- rain of fire: targets random player within 30 yards and casts RoF, 15 yard AoE that lasts 10 seconds
+    - players in RoF get 1.6k fire dmg every 2 seconds
+    - players also get Unquenchable Flames debuff, 1.2k fire damage per second for 5 seconds
+- Howl of Azgalor: raid-wide silence for 5 seconds; its a shadow effect, so shadow resist gear can resist it
+    - cooldown is ~20 seconds?
+- Cleave: deals damage to melee in front
 
+- demon slaying elixir
+- consider have tank not attack boss while silenced to avoid being parry hasted
+    - boss is immune to disarm
+- warlocks can cast soulstone on players that have doom
+- consider fire res gear for RoF, esp. for melee
+- silence can be resisted with shadow res gear, even just medallion of karabor
+- alternative strat for doomguard, set up a group of 5 to kill the doomguard (1 tank, 1 healer, 3 dps)
+    - doesnt seem ideal; doomguards despawn when boss dies
+
+- Strat:
+    - tanked near thrall
+    - HoTs to deal with silences
+    - priests can buff people with shadow resist; melee consider fire res gear
+    - paladins w/ improved concentration aura can be grouped w/ healers to reduce silence (-30% duration; 5->3.5secs)
+    - for RoF, ranged+healer can stand >30 yards, so RoF is only casted on melee; melee+tank will have to move
+        - or just have ranged spread out around boss so minimal players get hit with RoF; different sources cite different strats
+    - doomguard: doomed player goes to offtank (by tauren warriors)
+        - doomguards are ignored by dps, tanked by offtank until boss dies
+        - free action potions can help if tank is stunned via warstomp, but needs to pick up another doomguard
+
+=======
 
 ## Archimonde
 
