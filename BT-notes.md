@@ -32,3 +32,15 @@
 - spread for phase 2, boss will change fixate targets quickly
 - threat drop from phase 2->1, dps should stop
 
+## Shade of Akama
+- phase 1:
+    - burn down the 6 channelers
+    - adds will spawn in groups of 3, left and right sides of the room (by doorway)
+        - prio Ashtongue Spiritbinder, CC elementalists and rogues
+- phase 2:
+    - dps race to kill the shade before the shade kills akama
+    - akama tanks the shade; tanks tank remaining adds
+
+- misc: after kill this boss, a teleport unlocks from entrance of raid to outside the room
+
+## Teron Gorefiend
