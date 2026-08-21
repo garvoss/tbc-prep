@@ -4,4 +4,4 @@
 
 [Black Temple Strategy Notes](https://github.com/garvoss/tbc-prep/blob/main/BT-notes.md)
 
-MH Strategy Guide: https://docs.google.com/document/d/19hhuTsv6uZhnsOEQkZfLyCY-ZT-F0J0IOsaJj3BREL4/ 
+MH Strategy Guide Draft: https://docs.google.com/document/d/19hhuTsv6uZhnsOEQkZfLyCY-ZT-F0J0IOsaJj3BREL4/ 
