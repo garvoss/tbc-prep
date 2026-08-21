@@ -42,5 +42,25 @@
     - akama tanks the shade; tanks tank remaining adds
 
 - misc: after kill this boss, a teleport unlocks from entrance of raid to outside the room
+- should be a fairly easy fight
 
 ## Teron Gorefiend
+
+- Shadow of Death every 30 seconds, random target (not main tank), 55 second debuff
+    - if the 4 shadowy constructs reach a living player, they attack for heavy damage
+    - the mini game: run to back of room before debuff expires; hit 5 immediately (heavy aoe), then 4 (aoe freeze), tab target and spam 3rd ability (slows mov.speed 10s)
+    - 3: spirit lance, 5: spirit volley
+    - afterwards, can buff healers with spirit shield (absorbs shadow dmg), attack boss with 1 (spirit strike, heavy melee)
+- Summon Doom Blossom: summons purple cloud that shoots Shadow Bolt at random players
+- Crushing Shadows: random target, debuff, increases shadow dmg taken by that player by 60% for 15s
+- Incinerate: casted on random player that causes fire dmg DoT
+
+- players with SoD should wait until the debuff has 15-20 seconds remaining to run to back of room (maybe earlier for a longer grace period)
+- !! hunters can cast FD when gorefiend casts SoD, rogues can vanish out of SoD, constructs won't spawn
+- incinerate can be dispelled with pally's cleanse or priest's dispell magic
+- warlocks can SS players with SoD
+- boss is tanked where he's at, rest of dps stand in back of the room to give max distance for SoD
+    - also stacking leads to more effective chain healing and circle of healing
+- lust once tank establishes threat
+
+- misc: https://teron.faldorn.net/
