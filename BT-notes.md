@@ -49,6 +49,7 @@
 - Shadow of Death every 30 seconds, random target (not main tank), 55 second debuff
     - if the 4 shadowy constructs reach a living player, they attack for heavy damage
     - the mini game: run to back of room before debuff expires; hit 5 immediately (heavy aoe), then 4 (aoe freeze), tab target and spam 3rd ability (slows mov.speed 10s)
+        - the 3rd ability stacks up to 3 times, for 90% movement reduction
     - 3: spirit lance, 5: spirit volley
     - afterwards, can buff healers with spirit shield (absorbs shadow dmg), attack boss with 1 (spirit strike, heavy melee)
 - Summon Doom Blossom: summons purple cloud that shoots Shadow Bolt at random players
@@ -64,3 +65,36 @@
 - lust once tank establishes threat
 
 - misc: https://teron.faldorn.net/
+
+## Gurtogg Bloodboil
+- phase 1: (lasts 90s)
+    - acidic wound: stacking debuff on tanks, nature damage DoT and reduces armor by 500, lasts 60s
+        - swap at 15-20 stacks, about 30 seconds into the fight
+    - bloodboil: 600 dmg per second for 24seconds, casted on the 5 furthest targets
+        - 3 groups of ranged, swap to furthest at each bloodboil
+        - casted every 10s, so rotations should be every 10s
+    - bewildering strike: casted periodically on highest threat target (tank), disorientates for 8s, forcing a tank swap
+    - arcing smash: frontal cone aoe damage, reduces healing recvd by 50% for 4s
+    - fel acid breath: frontal cone aoe nature damage, initial damage and dot
+- phase 2: 
+    - fel rage on a random player: increases damage done by 300%, healing done by 100%, reduce mana cost by 50%, ups max health 30k, armor 15k
+        - boss's dmg is also increased by 85%, stacking haste buff
+            - if fel rage'd player dies, gurtogg will shred through other players
+        - non-fel raged players cause no threat due to insignificance
+    - fel geyser spawns on location of fel rage'd players, others move away
+    - boss still does his two frontal cone abilities, so dont stand in front
+- fel rage lasts 30 seconds, then swaps back to phase 1
+
+- healing-heavy fight, chain heal and circle of healing good
+- may need 3 tanks, full mitigation, always top 3 in threat
+- non-tanks stand behind boss due to arcing smash and fel acid breath
+- boss is tanked at one waterfall, bloodboil group is on the other waterfall
+- if threat is a problem, lust at phase 2 due to 0 threat generation
+- pump heals on fel raged player, they need to stay alive
+    - BoP on fel rage'd player can be useful, it does not cause boss to switch targets
+    - pain suppression good on fel rage'd target, especially clothies
+    - hunters: aspect of the monkey
+- recommended to spread lightly before transition to phase 2 to avoid/minimize damage from frontal abilities
+
+## Reliquary of Souls
+
